@@ -27,7 +27,8 @@
  OF_STATUS_INDENT_RIGHT := 50
  OF_OPTIONS_LIST_NUM := 6
  OF_USE_GREEN_LED := 0
- OF_FL_PATH1 := /sys/class/leds/white:flash-1
+ OF_FL_PATH1 := /sys/class/leds/yellow:flash-0_1
+ OF_FL_PATH2 := /sys/class/leds/yellow:flash-0
 
  OF_ENABLE_ALL_PARTITION_TOOLS := 1
  OF_WORKAROUND_BACKUP_BUG := 1
