@@ -96,7 +96,7 @@ BOARD_SUPER_PARTITION_SIZE := 18907922432
 BOARD_SUPER_PARTITION_GROUPS := qti_dynamic_partitions
 BOARD_QTI_DYNAMIC_PARTITIONS_SIZE := 18903728128
 BOARD_QTI_DYNAMIC_PARTITIONS_PARTITION_LIST := \
-	system system_ext product vendor vendor_dlkm odm
+	system system_ext system_dlkm product vendor vendor_dlkm odm
 BOARD_QTI_DYNAMIC_PARTITIONS_PARTITION_LIST += \
 	my_bigball my_carrier my_company my_engineering my_heytap my_manifest my_preload my_product my_region my_stock system_dlkm_oki
 
