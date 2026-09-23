@@ -24,7 +24,7 @@ cd sync
 cd ~/android/fox_14.1/device
 mkdir -p realme
 cd realme
-git clone https://github.com/koaaN/android_device_realme_lafa-orangefox -b R12 lafa
+git clone https://github.com/lmhx-dev/android_device_realme_lafa-orangefox.git -b R12 lafa
 ```
 
 ### Build
